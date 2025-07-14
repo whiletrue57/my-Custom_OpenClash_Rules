@@ -191,3 +191,18 @@ DOMAIN-SUFFIX,chujingapp.com
 
 
 # 更多已被收录的域名，此处未做保留
+
+# my rule direct
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,linuxdo.org
+DOMAIN-SUFFIX,gofluent.com
+DOMAIN-SUFFIX,gpcloudservice.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,55188.eu.org
+DOMAIN-SUFFIX,whiletrue.eu.org
+DOMAIN-SUFFIX,time.is
+DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-SUFFIX,pyecharts.org
