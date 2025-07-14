@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 71
+# TOTAL: 84
 
 payload:
   - '+.immortalwrt.org'
@@ -75,3 +75,16 @@ payload:
   - '+.game.maj-soul.com'
   - '+.seaflysoft.com'
   - '+.chujingapp.com'
+  - '+.jsdelivr.net'
+  - '+.zoom.us'
+  - '+.gstatic.com'
+  - '+.linux.do'
+  - '+.linuxdo.org'
+  - '+.gofluent.com'
+  - '+.gpcloudservice.com'
+  - '+.sentry.io'
+  - '+.55188.eu.org'
+  - '+.whiletrue.eu.org'
+  - '+.time.is'
+  - '+.cloudflare.net'
+  - '+.pyecharts.org'
