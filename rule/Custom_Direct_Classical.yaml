@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 75
+# TOTAL: 88
 
 payload:
   - DOMAIN-SUFFIX,immortalwrt.org
@@ -75,6 +75,19 @@ payload:
   - DOMAIN-SUFFIX,game.maj-soul.com
   - DOMAIN-SUFFIX,seaflysoft.com
   - DOMAIN-SUFFIX,chujingapp.com
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,zoom.us
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,linuxdo.org
+  - DOMAIN-SUFFIX,gofluent.com
+  - DOMAIN-SUFFIX,gpcloudservice.com
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,55188.eu.org
+  - DOMAIN-SUFFIX,whiletrue.eu.org
+  - DOMAIN-SUFFIX,time.is
+  - DOMAIN-SUFFIX,cloudflare.net
+  - DOMAIN-SUFFIX,pyecharts.org
   - IP-CIDR,5.5.5.5/32,no-resolve
   - IP-CIDR,218.78.7.16/32,no-resolve
   - IP-CIDR,98.126.27.164/32,no-resolve
