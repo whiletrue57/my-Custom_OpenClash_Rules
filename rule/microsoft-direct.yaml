@@ -1,0 +1,21 @@
+# 其他微软域名直连，例如 Office、OneDrive、Windows 服务等
+payload:
+  - "+.microsoft.com"
+  - "+.office.com"
+  - "+.windows.com"
+  - "+.live.com"
+  - "+.msftconnecttest.com"
+  - "+.msftncsi.com"
+  - "+.skype.com"
+  - "+.outlook.com"
+# 登录相关，直连
+  - "+.login.microsoftonline.com"
+  - "+.login.live.com"
+  - "+.account.live.com"
+  - "+.account.microsoft.com"
+  - "+.aadcdn.microsoftonline-p.com"
+  - "+.microsoftonline.com"
+  - "+.msauth.net"
+  - "+.msftauth.net"
+  - "+.msidentity.com"
+  - "+.sts.windows.net"
